@@ -24,5 +24,5 @@ function draw() {
 }
 
 function mousePressed(){
-    window.location = '..';
+    window.location = '../index';
   }

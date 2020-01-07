@@ -25,5 +25,5 @@ function draw() {
 
 // ************ get this to go back to the main index? *******************
 function mousePressed(){
-    window.location = '..';
+    window.location = '../index';
   }
